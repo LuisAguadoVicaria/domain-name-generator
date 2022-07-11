@@ -43,7 +43,7 @@
  
 <sub><sub>You can also open any GitHub repository in Gitpod</sub></sub> 
   
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#<your-project-url>)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LuisAguadoVicaria/domain-name-generator/)
 
 ## Contact
 
