@@ -21,14 +21,14 @@
 
 <br>
 
-### Featured
+## Featured
 
 <br>
 
->   <li><sub>Generate all possible word combinations dynamically</sub></li>
->   <li><sub>Check if you can shorten a domain with its extension</sub></li>
->   <li><sub>Optimized memory usage with splice</sub></li>
->   <li><sub>Clean and readable code</sub></li>
+>   <li>Generate all possible word combinations dynamically</li>
+>   <li>Check if you can shorten a domain with its extension</li>
+>   <li>Optimized memory usage with splice</li>
+>   <li>Clean and readable code</li>
 
 <br>
 
